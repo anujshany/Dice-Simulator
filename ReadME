@@ -1,0 +1,3 @@
+Python LIbrary used are Tkinter and Pillow(PIL)
+For PIL use pip install pillow first
+the images provided should be in the same project folder or specifc path should be described
